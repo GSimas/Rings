@@ -1,0 +1,10 @@
+01[[:space:]]-[[:space:]]A[[:space:]]Long-Expected[[:space:]]Party.mp3 filter=lfs diff=lfs merge=lfs -text
+02[[:space:]]-[[:space:]]The[[:space:]]Shadow[[:space:]]of[[:space:]]the[[:space:]]Past.mp3 filter=lfs diff=lfs merge=lfs -text
+03[[:space:]]-[[:space:]]Three[[:space:]]Is[[:space:]]Company.mp3 filter=lfs diff=lfs merge=lfs -text
+11[[:space:]]-[[:space:]]A[[:space:]]Knife[[:space:]]in[[:space:]]the[[:space:]]Dark.mp3 filter=lfs diff=lfs merge=lfs -text
+12[[:space:]]-[[:space:]]Flight[[:space:]]to[[:space:]]the[[:space:]]Ford.mp3 filter=lfs diff=lfs merge=lfs -text
+13[[:space:]]-[[:space:]]Many[[:space:]]Meetings.mp3 filter=lfs diff=lfs merge=lfs -text
+14[[:space:]]-[[:space:]]The[[:space:]]Council[[:space:]]of[[:space:]]Elrond.mp3 filter=lfs diff=lfs merge=lfs -text
+15[[:space:]]-[[:space:]]The[[:space:]]Ring[[:space:]]Goes[[:space:]]South.mp3 filter=lfs diff=lfs merge=lfs -text
+16[[:space:]]-[[:space:]]A[[:space:]]Journey[[:space:]]In[[:space:]]The[[:space:]]Dark.mp3 filter=lfs diff=lfs merge=lfs -text
+18[[:space:]]-[[:space:]]Lothlorien.mp3 filter=lfs diff=lfs merge=lfs -text
