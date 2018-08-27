@@ -9,7 +9,7 @@ Lord of the Rings books and audiobooks
 
 ![](https://i.imgur.com/2pM2ak7.png)
 
-Website: [potter.cf](http://potter.cf)
+Website: [lotr.gq](http://lotr.gq)
 
 Developer: [Gustavo Simas da Silva](gsimas.github.io)
 
